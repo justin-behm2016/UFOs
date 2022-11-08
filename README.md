@@ -12,6 +12,6 @@ As seen in the image above, a potential example could be a user filtering throug
 
 As a further example, a user could have used some of the information gained from the previous search and then decide to look further into any sightings reported in OH. The second image displayed shows some of the information they could find.
 
-###Summary
+#### Summary
 The new design is certainly an improvement; however, there are ways to improve it even further. One improvement I would suggest would be a form of community interaction. The inclusion of something like a comment section, a forum, or any form of discussion within the community would address a current lack thereof. I think the inclusion of something like this allows for the topic of UFO sightings to become a talking point.
 A second form of improvement I would suggest comes in another form of community interaction. Currently, the data set is stagnant and some points are a bit dated. Allowing a way for users to submit their own UFO sightings both increases user interaction and revitalizes the dataset. I would only suggest this in a way that allows the submissions to be reviewed before being posted to the webpage to ensure the sightings are presentable. 
